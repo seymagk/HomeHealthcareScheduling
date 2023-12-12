@@ -8,4 +8,8 @@ This work addresses a home health care scheduling problem (HHCSP) faced by home 
 Data:
 We are collaborating with a home health care agency, which has operated for more than two decades and has branches in over twenty states. We obtained real world data from the company, to test our algorithms. Besides the full data set, we also generated small and mid-size instances. We provide our data (masked to maintain confidentiality) freely available to the scientific community, in order to stimulate the research on home health care routing and scheduling.
 
-
+The collaborators:
+Seyma Guven Kocak
+Pinar Keskinocak
+Alejandro Toriello
+Aliza Heching
